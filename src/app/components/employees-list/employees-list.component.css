@@ -1,3 +1,7 @@
-.container {
-  margin-top: 80px;
+.new_employee a{
+  color: white;
+}
+
+.not-active:first-child td .btnd {
+  display: none;
 }
